@@ -1,0 +1,15 @@
+pytesseract
+pytorch
+pyttsx3
+numpy
+tensorflow
+matplotlib
+opencv-python
+protobuf==3.0.0
+Pillow
+lxml
+tf-slim
+notebook
+Cython
+contextlib2
+cocoapi
